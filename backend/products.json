@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Brown eggs",
+        "type": "dairy",
+        "description": "Raw organic brown eggs in a basket",
+        "price": 28.1,
+        "rating": 4
+    },
+    {
+        "title": "Sweet fresh stawberry",
+        "type": "fruit",
+        "description": "Sweet fresh stawberry on the wooden table",
+        "price": 29.45,
+        "rating": 4
+    },
+    {
+        "title": "Asparagus",
+        "type": "vegetable",
+        "description": "Asparagus with ham on the wooden table",
+        "price": 18.95,
+        "rating": 3
+    }
+]
